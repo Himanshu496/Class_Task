@@ -1,0 +1,45 @@
+header {
+  font-size: 50px;
+  background-color: rgb(186, 122, 4);
+  padding: 50px;
+}
+body {
+  border: double;
+  padding: 20px;
+}
+button {
+  font-size: 30px;
+}
+.Header {
+  margin: 20px;
+  justify-content: space-between;
+}
+footer {
+  align-items: center;
+  color: white;
+  font-size: 50px;
+  background-color: rgb(29, 20, 2);
+  padding: 50px;
+}
+img {
+  margin: 50px 300px 50px 300px;
+  height: 12cm;
+}
+
+.list-center {
+  align-items: center;
+}
+
+.image {
+  background-color: blue;
+  background-image: url("Background_HTML.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.Main_body {
+  background-color: blue;
+  margin: 20px;
+  padding: 50px;
+}

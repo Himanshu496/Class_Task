@@ -1,0 +1,25 @@
+/* *{
+
+} 
+$$$$$ Known as universal selectors
+$$$$$ p h1{
+} inherited selectors
+
+
+$$$class selector using "." 
+$$$ id selector using "#"
+
+
+
+*/
+
+
+
+p{
+    color: red;
+    font-size: 64px;
+}
+body{
+    border: dotted 10px;
+    padding: 20px;
+}
